@@ -1,0 +1,19 @@
+collections/open-source-organizations/index.md
+  s_e167b429fea3eb::t_eaddc488b9c7bd 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "508ad9a64066ff4ab84d7940937b9ccca838b616",
+  "prompts": {},
+  "sessions": {
+    "s_e167b429fea3eb": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "f16e6b36-6715-428e-b73b-9b5e98efb07e",
+        "model": "unknown"
+      },
+      "human_author": "Andrea Magán Rey <andrea.magan@outlook.com>"
+    }
+  }
+}
